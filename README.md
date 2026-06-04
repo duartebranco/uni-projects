@@ -45,7 +45,6 @@
         <td>-</td>
         <td>-</td>
         <td>RS-project missing</td>
-        <td>-</td>
         <td><a href="https://github.com/duartebranco/Car-Management" target="_blank" rel="noopener noreferrer">IHC-project</a></td>
         <td>-</td>
         <td></td>
@@ -55,7 +54,7 @@
         <td>-</td>
         <td>-</td>
         <td>-</td>
-        <td><a href="https://github.com/pedropintoo/SIO-project" target="_blank" rel="noopener noreferrer">SIO-project</a></td>
+        <td>-</td>
         <td></td>
     </tr>
 </table>
