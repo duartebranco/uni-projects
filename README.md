@@ -22,7 +22,7 @@
         <td>-</td>
         <td><a href="https://github.com/detiuaveiro/trabalho-1-119192-119253" target="_blank" rel="noopener noreferrer">AED-project-1</a>* & <a href="https://github.com/duartebranco/ProjGraphAED" target="_blank" rel="noopener noreferrer">AED-project-2</a></td>
         <td><a href="https://github.com/duartebranco/GestaoPaleontologia" target="_blank" rel="noopener noreferrer">BD-project</a></td>
-        <td><a href="" target="_blank" rel="noopener noreferrer">AGR-project-1</a></td>
+        <td><a href="https://github.com/detiuaveiro/ia2025-tpg-119192-119253-119405" target="_blank" rel="noopener noreferrer">IA-project</a> & <a href="https://github.com/detiuaveiro/ia-2025-recurso-119253" target="_blank" rel="noopener noreferrer">IA-project-recurso</a></td>
         <td><a href="https://github.com/pedropintoo/TQS-project" target="_blank" rel="noopener noreferrer">TQS-project</a></td>
     </tr>
     <tr>
@@ -30,7 +30,7 @@
         <td>-</td>
         <td><a href="https://github.com/FilipeNV1/Projeto-MPEI" target="_blank" rel="noopener noreferrer">MPEI-project</a></td>
         <td><a href="https://github.com/duartebranco/image-manipulation-languages" target="_blank" rel="noopener noreferrer">C-project</a></td>
-        <td><a href="https://github.com/pedropintoo/AGR-project-2" target="_blank" rel="noopener noreferrer">AGR-project-2</a></td>
+        <td><a href="https://github.com/duartebranco/ZeroMonos" target="_blank" rel="noopener noreferrer">TQS-project-1</a> & <a href="https://github.com/TQS-G32/tqs-gamerent" target="_blank" rel="noopener noreferrer">TQS-project-2</a></td>
         <td></td>
     </tr>
     <tr>
@@ -38,14 +38,14 @@
         <td>-</td>
         <td><a href="https://github.com/duartebranco/bashback" target="_blank" rel="noopener noreferrer">SO-project-1</a> & <a href="https://github.com/duartebranco/semaphore_soccergame" target="_blank" rel="noopener noreferrer">SO-project-2</a></td>
         <td><a href="https://github.com/duartebranco/distributed-p2p-pytest-runner" target="_blank" rel="noopener noreferrer">CD-project</a></td>
-        <td><a href="https://github.com/pedropintoo/IA-project" target="_blank" rel="noopener noreferrer">IA-project</a></td>
+        <td><a href="https://github.com/detiuaveiro/project-2-secureshare-119192_119253_119405" target="_blank" rel="noopener noreferrer">SIO-project</a></td>
         <td></td>
     </tr>
     <tr>
         <td>-</td>
         <td>-</td>
         <td>RS-project missing</td>
-        <td><a href="https://github.com/duartebranco/Car-Management" target="_blank" rel="noopener noreferrer">IHC-project</a></td>
+        <td>-</td>
         <td><a href="https://github.com/pedropintoo/IES-project" target="_blank" rel="noopener noreferrer">IES-project</a></td>
         <td></td>
     </tr>
