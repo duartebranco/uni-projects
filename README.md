@@ -85,7 +85,7 @@
         <td>-</td>
         <td>-</td>
         <td><a href="https://github.com/detiuaveiro/prog-estilo-funcional-duartebranco" target="_blank" rel="noopener noreferrer">IA-lab-1</a> & <a href="https://github.com/detiuaveiro/resolucao-automatica-de-problemas-duartebranco" target="_blank" rel="noopener noreferrer">IA-lab-2</a> & <a href="https://github.com/detiuaveiro/representacao-do-conhecimento-duartebranco" target="_blank" rel="noopener noreferrer">IA-lab-3</a> & <a href="https://github.com/detiuaveiro/tratamento-da-incerteza-duartebranco" target="_blank" rel="noopener noreferrer">IA-lab-4</a> & <a href="https://github.com/detiuaveiro/tpi-1-2026-duartebranco" target="_blank" rel="noopener noreferrer">IA-tpi-1</a> & <a href="https://github.com/detiuaveiro/tpi-2-2026-duartebranco" target="_blank" rel="noopener noreferrer">IA-tpi-2</a></td>
-        <td><a href="https://github.com/IAA-PL4G3/cardiovascular-disease" target="_blank" rel="noopener noreferrer">IAA-project</a></td>
+        <td>-</td>
     </tr>
     <tr>
         <td>-</td>
@@ -93,7 +93,7 @@
         <td>-</td>
         <td>-</td>
         <td><a href="https://github.com/detiuaveiro/tqs-indiv-portfolio-duartebranco" target="_blank" rel="noopener noreferrer">TQS-labs</a></td>
-        <td><a href="https://github.com/duartebranco/sonic-hub-world" target="_blank" rel="noopener noreferrer">ICG-project</a></td>
+        <td>-</td>
     </tr>
     <tr>
         <td>-</td>
@@ -101,7 +101,7 @@
         <td>-</td>
         <td><a href="https://github.com/detiuaveiro/cd2025_guiao1-duartebranco" target="_blank" rel="noopener noreferrer">CD-lab-1</a> & <a href="https://github.com/detiuaveiro/cd2025_chord-120603_119253" target="_blank" rel="noopener noreferrer">CD-lab-2</a> & <a href="https://github.com/detiuaveiro/cd2025-guiao-3-120603_119253" target="_blank" rel="noopener noreferrer">CD-lab-3</a> & <a href="https://github.com/detiuaveiro/cd2025-guiao-4-120603_119253" target="_blank" rel="noopener noreferrer">CD-lab-4</a></td>
         <td>-</td>
-        <td><a href="https://github.com/detiuaveiro/ies2526-group-project-ies2526_g602" target="_blank" rel="noopener noreferrer">IES-project</a>* </td>
+        <td><a href="https://github.com/detiuaveiro/individual-lab01-119253" target="_blank" rel="noopener noreferrer">IES-lab-1</a> & <a href="https://github.com/detiuaveiro/ies2526-individual-lab02-119253" target="_blank" rel="noopener noreferrer">IES-lab-2</a> & <a href="https://github.com/detiuaveiro/ies2526-individual-lab03-119253" target="_blank" rel="noopener noreferrer">IES-lab-3</a> & <a href="https://github.com/detiuaveiro/ies2526-individual-lab04-duartebranco" target="_blank" rel="noopener noreferrer">IES-lab-4</a> & <a href="https://github.com/detiuaveiro/ies2526-individual-lab05-119253" target="_blank" rel="noopener noreferrer">IES-lab-5</a></td>
     </tr>
     <tr>
         <td>-</td>
@@ -109,7 +109,7 @@
         <td>-</td>
         <td><a href="https://github.com/detiuaveiro/practical-pds2024_g2_05" target="_blank" rel="noopener noreferrer">PDS-labs</a></td>
         <td>-</td>
-        <td><a href="https://github.com/ATNoG/pei-automotive" target="_blank" rel="noopener noreferrer">PEI</a></td>
+        <td>-</td>
     </tr>
 <!--
     <tr>
