@@ -1,5 +1,11 @@
 # duarte's uni projects
 
+links to all the projects that were done by me in uni and are hosted on GitHub.
+
+also, links to the classes labs (all private).
+
+this whole file is susceptible to changes.
+
 #### Projects
 
 <table><thead>
