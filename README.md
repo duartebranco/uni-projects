@@ -34,7 +34,7 @@
     <tr>
         <td><a href="https://github.com/FilipeNV1/Projeto-FP-2" target="_blank" rel="noopener noreferrer">FP-project-2</a></td>
         <td>-</td>
-        <td><a href="https://github.com/pedropintoo/MPEI-project" target="_blank" rel="noopener noreferrer">MPEI-project</a></td>
+        <td><a href="https://github.com/FilipeNV1/Projeto-MPEI" target="_blank" rel="noopener noreferrer">MPEI-project</a></td>
         <td><a href="https://github.com/pedropintoo/CD-project" target="_blank" rel="noopener noreferrer">CD-project</a></td>
         <td><a href="https://github.com/pedropintoo/IA-project" target="_blank" rel="noopener noreferrer">IA-project</a></td>
         <td></td>
@@ -42,7 +42,7 @@
     <tr>
         <td>-</td>
         <td>-</td>
-        <td><a href="https://github.com/pedropintoo/SO-project-1" target="_blank" rel="noopener noreferrer">SO-project-1</a></td>
+        <td><a href="https://github.com/duartebranco/bashback" target="_blank" rel="noopener noreferrer">SO-project-1</a></td>
         <td><a href="https://github.com/pedropintoo/IHC-project" target="_blank" rel="noopener noreferrer">IHC-project</a></td>
         <td><a href="https://github.com/pedropintoo/IES-project" target="_blank" rel="noopener noreferrer">IES-project</a></td>
         <td></td>
@@ -50,7 +50,7 @@
     <tr>
         <td>-</td>
         <td>-</td>
-        <td><a href="https://github.com/pedropintoo/SO-project-2" target="_blank" rel="noopener noreferrer">SO-project-2</a></td>
+        <td><a href="https://github.com/duartebranco/semaphore_soccergame" target="_blank" rel="noopener noreferrer">SO-project-2</a></td>
         <td>-</td>
         <td><a href="https://github.com/pedropintoo/SIO-project" target="_blank" rel="noopener noreferrer">SIO-project</a></td>
         <td></td>
