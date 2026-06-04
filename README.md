@@ -32,7 +32,6 @@
         <td><a href="https://github.com/duartebranco/image-manipulation-languages" target="_blank" rel="noopener noreferrer">C-project</a></td>
         <td><a href="https://github.com/duartebranco/ZeroMonos" target="_blank" rel="noopener noreferrer">TQS-project-1</a> & <a href="https://github.com/TQS-G32/tqs-gamerent" target="_blank" rel="noopener noreferrer">TQS-project-2</a></td>
         <td><a href="https://github.com/duartebranco/sonic-hub-world" target="_blank" rel="noopener noreferrer">ICG-project</a></td>
-        <td></td>
     </tr>
     <tr>
         <td>FP-project1 missing & <a href="https://github.com/FilipeNV1/Projeto-FP-2" target="_blank" rel="noopener noreferrer">FP-project-2</a></td>
@@ -41,7 +40,6 @@
         <td><a href="https://github.com/duartebranco/distributed-p2p-pytest-runner" target="_blank" rel="noopener noreferrer">CD-project</a></td>
         <td><a href="https://github.com/detiuaveiro/project-2-secureshare-119192_119253_119405" target="_blank" rel="noopener noreferrer">SIO-project</a>* </td>
         <td><a href="https://github.com/detiuaveiro/ies2526-group-project-ies2526_g602" target="_blank" rel="noopener noreferrer">IES-project</a>* </td>
-        <td></td>
     </tr>
     <tr>
         <td>-</td>
@@ -50,16 +48,16 @@
         <td><a href="https://github.com/duartebranco/Car-Management" target="_blank" rel="noopener noreferrer">IHC-project</a></td>
         <td>-</td>
         <td><a href="https://github.com/ATNoG/pei-automotive" target="_blank" rel="noopener noreferrer">PEI</a></td>
-        <td></td>
     </tr>
+<!--
     <tr>
         <td>-</td>
         <td>-</td>
         <td>-</td>
         <td>-</td>
         <td>-</td>
-        <td></td>
     </tr>
+-->
 </table>
 
 \* projects are private
