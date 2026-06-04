@@ -91,7 +91,7 @@
         <td>-</td>
         <td>-</td>
         <td>-</td>
-        <td><a href="https://github.com/duartebranco/image-manipulation-languages" target="_blank" rel="noopener noreferrer">C-project</a></td>
+        <td>-</td>
         <td><a href="https://github.com/duartebranco/ZeroMonos" target="_blank" rel="noopener noreferrer">TQS-project-1</a> & <a href="https://github.com/TQS-G32/tqs-gamerent" target="_blank" rel="noopener noreferrer">TQS-project-2</a></td>
         <td><a href="https://github.com/duartebranco/sonic-hub-world" target="_blank" rel="noopener noreferrer">ICG-project</a></td>
     </tr>
@@ -107,7 +107,7 @@
         <td>-</td>
         <td>-</td>
         <td>-</td>
-        <td><a href="https://github.com/duartebranco/Car-Management" target="_blank" rel="noopener noreferrer">IHC-project</a></td>
+        <td><a href="https://github.com/detiuaveiro/practical-pds2024_g2_05" target="_blank" rel="noopener noreferrer">PDS-labs</a></td>
         <td>-</td>
         <td><a href="https://github.com/ATNoG/pei-automotive" target="_blank" rel="noopener noreferrer">PEI</a></td>
     </tr>
