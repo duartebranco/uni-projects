@@ -19,7 +19,7 @@
         <td><a href="https://github.com/JPSP9547/MAS-PF" target="_blank" rel="noopener noreferrer">MAS-project</a></td>
         <td>-</td>
         <td><a href="https://github.com/detiuaveiro/trabalho-1-119192-119253" target="_blank" rel="noopener noreferrer">AED-project-1</a>* </td>
-        <td><a href="https://github.com/pedropintoo/BD-project" target="_blank" rel="noopener noreferrer">BD-project</a></td>
+        <td><a href="https://github.com/duartebranco/GestaoPaleontologia" target="_blank" rel="noopener noreferrer">BD-project</a></td>
         <td><a href="https://github.com/pedropintoo/AGR-project-1" target="_blank" rel="noopener noreferrer">AGR-project-1</a></td>
         <td><a href="https://github.com/pedropintoo/TQS-project" target="_blank" rel="noopener noreferrer">TQS-project</a></td>
     </tr>
@@ -27,7 +27,7 @@
         <td><a href="https://github.com/duartebranco/ITW-ProjetoFinal" target="_blank" rel="noopener noreferrer">ITW-project</a></td>
         <td>-</td>
         <td><a href="https://github.com/duartebranco/ProjGraphAED" target="_blank" rel="noopener noreferrer">AED-project-2</a></td>
-        <td><a href="https://github.com/pedropintoo/C-project" target="_blank" rel="noopener noreferrer">C-project</a></td>
+        <td><a href="https://github.com/duartebranco/image-manipulation-languages" target="_blank" rel="noopener noreferrer">C-project</a></td>
         <td><a href="https://github.com/pedropintoo/AGR-project-2" target="_blank" rel="noopener noreferrer">AGR-project-2</a></td>
         <td></td>
     </tr>
@@ -35,7 +35,7 @@
         <td><a href="https://github.com/FilipeNV1/Projeto-FP-2" target="_blank" rel="noopener noreferrer">FP-project-2</a></td>
         <td>-</td>
         <td><a href="https://github.com/FilipeNV1/Projeto-MPEI" target="_blank" rel="noopener noreferrer">MPEI-project</a></td>
-        <td><a href="https://github.com/pedropintoo/CD-project" target="_blank" rel="noopener noreferrer">CD-project</a></td>
+        <td><a href="https://github.com/duartebranco/distributed-p2p-pytest-runner" target="_blank" rel="noopener noreferrer">CD-project</a></td>
         <td><a href="https://github.com/pedropintoo/IA-project" target="_blank" rel="noopener noreferrer">IA-project</a></td>
         <td></td>
     </tr>
@@ -43,7 +43,7 @@
         <td>-</td>
         <td>-</td>
         <td><a href="https://github.com/duartebranco/bashback" target="_blank" rel="noopener noreferrer">SO-project-1</a></td>
-        <td><a href="https://github.com/pedropintoo/IHC-project" target="_blank" rel="noopener noreferrer">IHC-project</a></td>
+        <td><a href="https://github.com/duartebranco/Car-Management" target="_blank" rel="noopener noreferrer">IHC-project</a></td>
         <td><a href="https://github.com/pedropintoo/IES-project" target="_blank" rel="noopener noreferrer">IES-project</a></td>
         <td></td>
     </tr>
