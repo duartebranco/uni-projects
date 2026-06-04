@@ -25,7 +25,7 @@ also added links to the classes labs (all private).
         <td>FP-project1 missing & <a href="https://github.com/FilipeNV1/Projeto-FP-2" target="_blank" rel="noopener noreferrer">FP-project-2</a></td>
         <td>-</td>
         <td><a href="https://github.com/detiuaveiro/trabalho-1-119192-119253" target="_blank" rel="noopener noreferrer">AED-project-1</a>* & <a href="https://github.com/duartebranco/ProjGraphAED" target="_blank" rel="noopener noreferrer">AED-project-2</a></td>
-        <td><a href="https://github.com/duartebranco/GestaoPaleontologia" target="_blank" rel="noopener noreferrer">BD-project</a></td>
+        <td><a href="https://github.com/duartebranco/GestaoPaleontologia" target="_blank" rel="noopener noreferrer">BD-project</a>* </td>
         <td><a href="https://github.com/detiuaveiro/ia2025-tpg-119192-119253-119405" target="_blank" rel="noopener noreferrer">IA-project</a>* & <a href="https://github.com/detiuaveiro/ia-2025-recurso-119253" target="_blank" rel="noopener noreferrer">IA-project-recurso</a>* </td>
         <td><a href="https://github.com/IAA-PL4G3/cardiovascular-disease" target="_blank" rel="noopener noreferrer">IAA-project</a></td>
     </tr>
