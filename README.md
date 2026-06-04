@@ -1,5 +1,7 @@
 # duarte's uni projects
 
+#### Projects
+
 <table><thead>
   <tr>
     <th colspan="2">1º ano</th>
@@ -20,7 +22,7 @@
         <td>-</td>
         <td><a href="https://github.com/detiuaveiro/trabalho-1-119192-119253" target="_blank" rel="noopener noreferrer">AED-project-1</a>* </td>
         <td><a href="https://github.com/duartebranco/GestaoPaleontologia" target="_blank" rel="noopener noreferrer">BD-project</a></td>
-        <td><a href="https://github.com/pedropintoo/AGR-project-1" target="_blank" rel="noopener noreferrer">AGR-project-1</a></td>
+        <td><a href="" target="_blank" rel="noopener noreferrer">AGR-project-1</a></td>
         <td><a href="https://github.com/pedropintoo/TQS-project" target="_blank" rel="noopener noreferrer">TQS-project</a></td>
     </tr>
     <tr>
@@ -32,7 +34,7 @@
         <td></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/FilipeNV1/Projeto-FP-2" target="_blank" rel="noopener noreferrer">FP-project-2</a></td>
+        <td><a href="https://github.com/FilipeNV1/Projeto-FP-2" target="_blank" rel="noopener noreferrer">FP-project-2</a> & project1 missing</td>
         <td>-</td>
         <td><a href="https://github.com/FilipeNV1/Projeto-MPEI" target="_blank" rel="noopener noreferrer">MPEI-project</a></td>
         <td><a href="https://github.com/duartebranco/distributed-p2p-pytest-runner" target="_blank" rel="noopener noreferrer">CD-project</a></td>
@@ -56,3 +58,7 @@
         <td></td>
     </tr>
 </table>
+
+* projects are private
+
+#### Labs
