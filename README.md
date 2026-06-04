@@ -38,7 +38,7 @@ also added links to the classes labs (all private).
         <td><a href="https://github.com/duartebranco/sonic-hub-world" target="_blank" rel="noopener noreferrer">ICG-project</a></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/JPSP9547/MAS-PF" target="_blank" rel="noopener noreferrer">MAS-project</a></td>
+        <td><a href="https://github.com/JPSP9547/MAS-PF" target="_blank" rel="noopener noreferrer">MAS-project</a>* </td>
         <td>-</td>
         <td><a href="https://github.com/duartebranco/bashback" target="_blank" rel="noopener noreferrer">SO-project-1</a> & <a href="https://github.com/duartebranco/semaphore_soccergame" target="_blank" rel="noopener noreferrer">SO-project-2</a></td>
         <td><a href="https://github.com/duartebranco/distributed-p2p-pytest-runner" target="_blank" rel="noopener noreferrer">CD-project</a></td>
