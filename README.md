@@ -4,18 +4,18 @@
 
 <table><thead>
   <tr>
-    <th colspan="2">1º ano</th>
-    <th colspan="2">2º ano</th>
-    <th colspan="2">3º ano</th>
+    <th colspan="2">1º year</th>
+    <th colspan="2">2º year</th>
+    <th colspan="2">3º year</th>
   </tr></thead>
 <tbody>
   <tr>
-    <td>1º semestre</td>
-    <td>2º semestre</td>
-    <td>1º semestre</td>
-    <td>2º semestre</td>
-    <td>1º semestre</td>
-    <td>2º semestre</td>
+    <td>1º semester</td>
+    <td>2º semester</td>
+    <td>1º semester</td>
+    <td>2º semester</td>
+    <td>1º semester</td>
+    <td>2º semester</td>
   </tr>
     <tr>
         <td><a href="https://github.com/JPSP9547/MAS-PF" target="_blank" rel="noopener noreferrer">MAS-project</a></td>
@@ -46,7 +46,8 @@
         <td>-</td>
         <td>RS-project missing</td>
         <td>-</td>
-        <td><a href="https://github.com/pedropintoo/IES-project" target="_blank" rel="noopener noreferrer">IES-project</a></td>
+        <td><a href="https://github.com/duartebranco/Car-Management" target="_blank" rel="noopener noreferrer">IHC-project</a></td>
+        <td>-</td>
         <td></td>
     </tr>
     <tr>
